@@ -1,0 +1,2 @@
+player=omxplayer -o hdmi -b
+player-fifo

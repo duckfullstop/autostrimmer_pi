@@ -1,0 +1,6 @@
+# This file is used by the autostrim init.d file
+
+# Stream URL
+S_URL=[STREAMURL]
+# Stream quality
+S_QUAL=best
